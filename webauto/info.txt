@@ -1,0 +1,3 @@
+This is a simple automation where we write a script to host a  basic webssite on local host using Vagrantfile.box
+Thats is it :) 
+
